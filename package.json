@@ -1,0 +1,11 @@
+{
+  "name": "dynamic_file_server",
+  "version": "1.0.0",
+  "description": "simple dynamic nodejs file server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cetric lihalakha",
+  "license": "ISC"
+}
