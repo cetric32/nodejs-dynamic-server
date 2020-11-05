@@ -8,7 +8,8 @@
   },
   "author": "cetric lihalakha",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "nodemon": "^2.0.6"
   }
 }
